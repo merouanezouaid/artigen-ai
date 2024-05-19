@@ -35,7 +35,7 @@ We welcome contributions! Please follow these steps to contribute:
 
 ## how it works
 
-![image](https://github.com/merouanezouaid/artigen-ai/assets/65385551/b682f0c6-fa9a-485e-b5af-8ad48347eab2)
+![image](https://github.com/merouanezouaid/artigen-ai/assets/65385551/10bec7a0-4a7c-4ec8-8612-94d436b58a02)
 
 
 ## Source Code
