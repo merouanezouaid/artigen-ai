@@ -48,14 +48,11 @@ Information about the trained models or APIs used, along with links to them if a
 
 ## Demo
 
-A recorded video or GIF demonstrating a working example of your solution.
-
-## Evaluation Protocol and Benchmarks
-
-Description of the evaluation protocol and benchmarks used to assess your solutions.
+see demo file
 
 
 ## Installation
+Requirement.txt
 
 Instructions on how to set up your project. For example:
 
