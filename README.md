@@ -14,6 +14,7 @@ This project uses Visual Language Models (VLM) to create culturally rich, profes
 - [Evaluation Protocol and Benchmarks](#evaluation-protocol-and-benchmarks)
 - [Installation](#installation)
 - [Usage](#usage)
+- [how it works](#how-it-works)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -31,6 +32,11 @@ We welcome contributions! Please follow these steps to contribute:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
+
+## how it works
+
+![image](https://github.com/merouanezouaid/artigen-ai/assets/65385551/b682f0c6-fa9a-485e-b5af-8ad48347eab2)
+
 
 ## Source Code
 
