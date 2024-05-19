@@ -44,7 +44,14 @@ Link or description of the source code and notebooks used in the project.
 
 ## Trained Models
 
-Information about the trained models or APIs used, along with links to them if available.
+### LLaVA Model
+We utilized the LLaVA (Language and Vision for Art) model, pretrained on a large corpus of art-related text and images, to enhance the cultural richness of our generated marketing descriptions.
+
+### SAM Model
+The SAM (Style Aggregated Multi-modal) model, trained on a diverse range of images and associated text, was employed to ensure the stylistic coherence and relevance of our generated descriptions.
+
+### CLIP Model
+The CLIP (Contrastive Language-Image Pretraining) model, pretrained on a massive dataset of paired images and text from the internet, played a crucial role in understanding the semantic context of images and texts, facilitating the generation of culturally relevant descriptions for Moroccan artisanal products.
 
 ## Demo
 
