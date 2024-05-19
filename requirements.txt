@@ -1,0 +1,4 @@
+transformers
+PIL
+clip
+torch
