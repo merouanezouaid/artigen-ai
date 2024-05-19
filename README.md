@@ -55,10 +55,8 @@ The SAM (Style Aggregated Multi-modal) model, trained on a diverse range of imag
 ### CLIP Model
 The CLIP (Contrastive Language-Image Pretraining) model, pretrained on a massive dataset of paired images and text from the internet, played a crucial role in understanding the semantic context of images and texts, facilitating the generation of culturally relevant descriptions for Moroccan artisanal products.
 
-## Demo
-
-see demo file
-
+## Presentation
+https://docs.google.com/presentation/d/17mMKR9yVwZaIAApt6LGJooZlElwbOPb9GJf_JYcaiKI/edit?usp=sharing
 
 ## Installation
 Requirement.txt
