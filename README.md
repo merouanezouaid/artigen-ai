@@ -3,6 +3,8 @@
 
 This project uses Visual Language Models (VLM) to create culturally rich, professional marketing descriptions for Moroccan artisanal products. By analyzing images and retrieving relevant cultural information, the system supports Moroccan artisans by highlighting the cultural significance and craftsmanship of their products, boosting their economic prospects and preserving Moroccan heritage.
 
+![](0519.mp4)
+
 
 ## Table of Contents
 
